@@ -24,7 +24,7 @@ Lirads can do anything you want via a number of different Lirads plugins. Howeve
 3. Installing PHP
     - PHP is installed via `apt-get install php5`
 4. Installing MySQL
-    - MySQL is installed via `apt-get install php5`
+    - MySQL is installed via `apt-get install mysql-server`
     - PHPMyAdmin is installed via `apt-get install phpmyadmin`
 5. Configuring Development Environment
     - default `.htaccess` file created
