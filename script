@@ -1,2 +1,11 @@
+# Update System Files
 sudo apt-get update
 sudo apt-get upgrade -y
+
+# Install and Configure Apache
+sudo apt-get install apache2 -y
+sudo a2enmod rewrite
+
+# Install and Configure MySQL and PHPMyAdmin
+sudo apt-get install mysql-server
+sudo apt-get install phpmyadmin
